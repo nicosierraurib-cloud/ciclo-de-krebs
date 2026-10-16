@@ -6,11 +6,11 @@ Bienvenido. Este repositorio contiene un recurso educativo interactivo diseñado
 1. **Una web interactiva (`index.html`):** Una animación paso a paso que explica cada etapa del Ciclo del Ácido Cítrico. Permite visualizar las estructuras moleculares, las enzimas involucradas (con sus códigos EC) y un contador en tiempo real de la ganancia energética (NADH, FADH₂, GTP, CO₂).
 2. **Un diagrama completo**
   
-     <img width="1917" height="1103" alt="imagen" src="https://github.com/user-attachments/assets/8c8eac92-1ddb-444c-9e81-e2f85a03bb08" />
-  
-** Un mapa metabólico detallado con el complejo PDH, las reacciones del ciclo, las entradas anapleróticas y el rendimiento total de ATP.
+     <img width="1920" height="1200" alt="imagen" src="https://github.com/user-attachments/assets/b10eae2b-1c07-4036-9a1f-0ea6d7bf73fd" />
 
-## ¡Entra y úsalo gratis! **
+** Un mapa metabólico detallado con el complejo PDH, las reacciones del ciclo, las entradas anapleróticas y el rendimiento total de ATP. **
+
+## ¡Entra y úsalo gratis! 
 Este recurso está diseñado para ver el metabolismo energético celular. Puedes entrar a la web interactiva, pausar la animación y repasar los enlaces químicos.
 
 Este material está hecho por y para estudiantes. Ya sea para la preparación de exámenes, apoyo en clases o estudio independiente, siéntete libre de usar este material. Puedes estudiar con él, compartirlo con otros estudiantes o proyectarlo con fines académicos.
