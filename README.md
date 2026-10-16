@@ -18,7 +18,7 @@ Este material está hecho por y para estudiantes. Ya sea para la preparación de
 ---
 
 ## Licencia y Uso Libre
-Este proyecto es de código abierto y está pensado para el libre acceso a la educación. Está bajo la licencia **MIT** (para el código).
+Este proyecto es de código abierto y está pensado para el libre acceso a la educación. Está bajo la licencia **MIT**.
 
 Condiciones de uso:
 * Puedes usarlo libremente para estudiar o enseñar.
