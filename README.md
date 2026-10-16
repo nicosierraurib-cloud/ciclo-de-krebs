@@ -8,8 +8,6 @@ Bienvenido. Este repositorio contiene un recurso educativo interactivo diseñado
   
      <img width="1376" height="768" alt="1000038595" src="https://github.com/user-attachments/assets/2f7bf900-a4fd-4da3-b1d1-a0192b882b96" />
 
-** Un mapa metabólico detallado con el complejo PDH, las reacciones del ciclo, las entradas anapleróticas y el rendimiento total de ATP.**
-
 ## ¡Entra y úsalo gratis! 
 Este recurso está diseñado para ver el metabolismo energético celular. Puedes entrar a la web interactiva, pausar la animación y repasar los enlaces químicos.
 
